@@ -55,6 +55,7 @@ RegisterNumber:212223220074
 */
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+
 ![Screenshot 2024-04-03 103357](https://github.com/pawan2006-png/ENCODER8TO3DATAFLOW/assets/150067867/a67654e1-d0e2-4a01-bb76-e286e366b18f)
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
